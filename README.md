@@ -1,5 +1,6 @@
-#  Mean and variance of a discrete  distribution
+# EXP. NO : 1   Mean and variance of a discrete  distribution
 
+# DATE : 25.08.2023
 
 # Aim : 
 
